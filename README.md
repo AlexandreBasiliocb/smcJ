@@ -1,0 +1,2 @@
+# smcJ
+smcVersionJava
